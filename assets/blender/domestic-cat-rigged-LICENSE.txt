@@ -1,0 +1,7 @@
+Source asset: "Domestic cat, rigged" by Pawel Walasiewicz
+Asset page: https://www.blenderkit.com/asset-gallery-detail/6b3bbcc7-db99-4424-9436-8e6678ee9354/
+License: BlenderKit Royalty Free License
+
+This asset is used as an integrated, modified component of Yu-Ling Chou's
+personal website. The website-specific cat colors, proportions, poses, and
+interactive behavior are original modifications made for this project.
